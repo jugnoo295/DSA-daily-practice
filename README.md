@@ -23,4 +23,4 @@
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/jugnoo295/DSA-daily-practice/tree/master/2161-partition-array-according-to-given-pivot) |
-<!---LeetCode Topics End-->
+<!---LeetCode Topics End--> 
